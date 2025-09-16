@@ -1,0 +1,13 @@
+@import "markdown.css";
+@import "responsive-embed.css";
+
+/* Required for Digital Ocean's icon */
+.st0 {
+    fill: #0080FF;
+}
+
+.st1 {
+    fill-rule: evenodd;
+    clip-rule: evenodd;
+    fill: #0080FF;
+}

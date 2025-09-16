@@ -1,0 +1,13 @@
+/* direct child */
+.markdown > * {
+    margin-bottom: 1rem;
+}
+
+/* footnotes */
+/* .markdown section[data-footnotes] > * {
+  all: revert;
+} */
+
+.markdown table tr th:first-child {
+    position: revert !important;
+}
